@@ -1,11 +1,11 @@
-# COM2002 - Programlama Laboratuvarı
+# COM2002 - Intermediate Programming Laboratuvarı
 
-Bu repo, COM2002 Programlama dersi laboratuvar ödevlerimi içermektedir. Her laboratuvar çalışması, C programlama dilinin farklı özelliklerini ve kavramlarını öğrenmemizi amaçlamaktadır.
+Bu repo, COM2002 Intermediate Programming dersi laboratuvar ödevlerimi içermektedir. Her laboratuvar çalışması, C programlama dilinin farklı özelliklerini ve kavramlarını öğrenmemizi amaçlamaktadır.
 
 ## Programları Derleme ve Çalıştırma
 
 1. Bilgisayarınızda GCC derleyicisinin kurulu olduğundan emin olun
-2. Terminal'i proje klasöründe açın
+2. Terminal'i proje klasörünü açın
 3. Programı derlemek için:
    ```bash
    gcc program_adi.c -o program_adi.exe
@@ -17,6 +17,7 @@ Bu repo, COM2002 Programlama dersi laboratuvar ödevlerimi içermektedir. Her la
 
 ## Geliştirme Ortamı
 - Programlama Dili: C
+- Kod Editörü: Visual Studio & Visual Studio Code
 - Derleyici: GCC (GNU Compiler Collection)
 - İşletim Sistemi: Windows
 
