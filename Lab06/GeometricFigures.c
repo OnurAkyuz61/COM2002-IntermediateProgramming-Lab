@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <math.h>
+#include <ctype.h>
 
 // Structure definitions for each geometric figure
 typedef struct {
