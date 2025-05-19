@@ -1,0 +1,9 @@
+2. Satır Satır Dosya Okuma (fgets + fopen)
+Soru:
+Bir metin.txt dosyasını satır satır okuyup ekrana yazdıran programı yaz.
+
+📌 İpuçları:
+
+fgets(buffer, size, fp)
+
+Satır uzunluğu sınırına dikkat et (char buffer[100];)

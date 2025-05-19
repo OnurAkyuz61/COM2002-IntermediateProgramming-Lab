@@ -1,0 +1,6 @@
+8. Geçici Dosya Oluştur (tmpfile)
+Soru:
+Geçici bir dosya oluşturup içine "Geçici Veri" yaz ve sonra başa dönüp oku ve ekrana yaz.
+
+📌 FILE *fp = tmpfile();
+

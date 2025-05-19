@@ -1,0 +1,7 @@
+4. Struct Array’ini Binary Dosyaya Kaydet ve Geri Oku (fwrite + fread)
+Soru:
+struct urun { int id; char ad[20]; float fiyat; }
+3 ürün bilgisi al, urunler.dat adlı binary dosyaya yaz, sonra geri okuyup ekrana yaz.
+
+📌 Binary mod: "wb" ve "rb"
+

@@ -1,0 +1,6 @@
+10. String Formatlı Veri Yazma (sprintf + snprintf)
+Soru:
+Kullanıcının ad ve soyad bilgilerini "Soyad, Ad" formatında bir string’e yaz ve ekrana bas.
+
+📌 snprintf(str, 50, "%s, %s", soyad, ad);
+

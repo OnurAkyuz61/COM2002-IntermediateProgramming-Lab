@@ -1,0 +1,6 @@
+3. Kullanıcıdan Alınan Verileri Dosyaya Yaz (fprintf + fopen)
+Soru:
+Kullanıcıdan 5 öğrencinin adı ve notunu alıp ogrenciler.txt dosyasına yazan bir program yaz.
+
+📌 Format: Ali 85 gibi satırlar halinde.
+

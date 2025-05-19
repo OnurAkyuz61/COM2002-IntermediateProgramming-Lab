@@ -1,0 +1,5 @@
+6. String’ten Veri Ayırma (sscanf + fgets)
+Soru:
+Kullanıcıdan gelen bir satırda doğum tarihi "1999/12/25" formatında verilir. Bu veriyi ayrıştırıp yıl, ay, gün olarak değişkenlere ata ve yazdır.
+
+📌 sscanf(line, "%d/%d/%d", &yil, &ay, &gun);

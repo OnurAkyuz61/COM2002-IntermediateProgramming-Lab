@@ -1,0 +1,6 @@
+7. Buffer'ı Elle Flush Etme (fflush)
+Soru:
+Bir dosyaya veri yazarken, buffer’ı manuel olarak flush eden bir program yaz.
+
+📌 fflush(fp);
+

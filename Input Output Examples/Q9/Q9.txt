@@ -1,0 +1,4 @@
+9. Dosya Sil ve Yeniden Adlandır (remove + rename)
+Soru:
+gecici.txt adlı dosyayı önce "yedek.txt" olarak yeniden adlandır, sonra sil.
+

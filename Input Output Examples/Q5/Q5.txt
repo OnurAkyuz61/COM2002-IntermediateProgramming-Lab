@@ -1,0 +1,9 @@
+5. Dosya Konumunu Koru ve Geri Dön (ftell + fseek)
+Soru:
+Bir dosyadan ilk 20 karakteri oku, konumunu kaydet, sonra en sona git ve "SON" yaz, ardından ilk pozisyona dön ve "BAŞ" yaz.
+
+📌 İpuçları:
+
+long pos = ftell(fp);
+
+fseek(fp, pos, SEEK_SET);

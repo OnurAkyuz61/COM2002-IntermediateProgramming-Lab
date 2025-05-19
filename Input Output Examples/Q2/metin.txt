@@ -1,0 +1,5 @@
+Merhaba Dünya!
+Bu bir test dosyasıdır.
+Satır satır okuma programını test ediyoruz.
+Bu program fgets() fonksiyonunu kullanarak dosyayı satır satır okur.
+Her satırı ekrana yazdırır.

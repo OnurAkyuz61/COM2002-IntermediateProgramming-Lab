@@ -1,0 +1,9 @@
+1. Dosyadan Tam Sayı Okuma ve Toplam Alma (fscanf + fopen + fclose)
+Soru:
+Bir sayilar.txt dosyasındaki tüm tam sayıları okuyup toplamını ekrana yazan programı yaz.
+
+📌 İpuçları:
+
+fscanf(fp, "%d", &n)
+
+feof kontrolü gerekebilir
