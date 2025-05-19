@@ -1,0 +1,1 @@
+setlocale() fonksiyonunu kullanarak LC_NUMERIC locale'ini sistem ayarına göre değiştir. 1234.56 sayısını bastığında nokta mı virgül mü çıktığını gözlemle.

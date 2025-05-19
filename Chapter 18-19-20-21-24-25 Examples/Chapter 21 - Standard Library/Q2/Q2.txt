@@ -1,0 +1,1 @@
+<math.h> kullanarak bir sayının karekökünü, karesini ve sinüsünü hesaplayan bir program yaz.

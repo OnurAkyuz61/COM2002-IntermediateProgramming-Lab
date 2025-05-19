@@ -1,0 +1,1 @@
+<stdlib.h> kullanarak kullanıcıdan sayı sayısını al, bu sayı kadar malloc ile bellek ayır ve ortalamasını hesapla.

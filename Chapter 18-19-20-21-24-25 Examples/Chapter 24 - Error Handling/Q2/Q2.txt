@@ -1,0 +1,1 @@
+Bir dizinin dışına çıkıldığında assert() ile hatayı yakalayan bir örnek yaz.

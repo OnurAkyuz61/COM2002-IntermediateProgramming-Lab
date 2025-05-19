@@ -1,0 +1,1 @@
+Bir stack modülü oluştur. stack.h ve stack.c dosyasında push() ve pop() fonksiyonlarını tanımla. main.c dosyasında bu stack'i kullanarak 3 eleman ekle ve sırayla çek.

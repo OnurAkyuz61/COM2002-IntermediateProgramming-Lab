@@ -1,0 +1,9 @@
+Aşağıdaki struct için bit alanları (bit-fields) kullan:
+
+struct file_date {
+  int day;
+  int month;
+  int year;
+};
+
+Bunu 5:4:7 bit’lik alanlara böl ve bir örnekle göster.

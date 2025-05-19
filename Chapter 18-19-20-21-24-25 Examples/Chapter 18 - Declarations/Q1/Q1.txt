@@ -1,0 +1,2 @@
+Bir static değişkenin fonksiyon çağrıları arasında değerini koruduğunu gösteren bir fonksiyon yaz.
+Fonksiyon her çağrıldığında bir sayacı 1 arttırsın ve ekrana yazsın.

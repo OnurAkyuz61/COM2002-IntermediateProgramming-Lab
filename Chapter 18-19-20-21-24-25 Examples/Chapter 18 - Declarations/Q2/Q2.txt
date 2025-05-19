@@ -1,0 +1,1 @@
+İki ayrı .c dosyasında tanımlanmış bir extern değişkenin nasıl paylaşıldığını göstermek için örnek bir yapı tasarla.

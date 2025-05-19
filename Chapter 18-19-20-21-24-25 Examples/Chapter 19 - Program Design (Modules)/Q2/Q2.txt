@@ -1,0 +1,1 @@
+Bir modül içinde tanımlı bir static dizinin başka dosyadan erişilemeyeceğini kanıtlayan bir örnek yaz.

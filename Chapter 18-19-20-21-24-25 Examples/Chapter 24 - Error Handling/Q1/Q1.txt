@@ -1,0 +1,1 @@
+Kullanıcının girdiği bir sayının karekökünü hesapla. Sayı negatifse errno kullanarak hatayı yakala ve perror() ile yazdır.

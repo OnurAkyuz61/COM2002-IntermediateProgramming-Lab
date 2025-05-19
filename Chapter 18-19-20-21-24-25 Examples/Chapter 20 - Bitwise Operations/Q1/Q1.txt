@@ -1,0 +1,1 @@
+Kullanıcıdan bir sayı al, onu 1 bit sola ve 2 bit sağa kaydırarak sonucu ekrana yazdır.

@@ -1,0 +1,1 @@
+İki sayıyı ^ (XOR) işlemiyle şifrele, sonra tekrar XOR uygulayarak çözümle.

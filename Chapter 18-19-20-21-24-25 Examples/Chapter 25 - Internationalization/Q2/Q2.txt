@@ -1,0 +1,1 @@
+Bir program yaz. Tarihi gün/ay/yıl olarak gir, locale ayarına göre farklı formatta yazdır (örneğin "en_US" vs "tr_TR" kullan).
